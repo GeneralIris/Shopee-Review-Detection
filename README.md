@@ -1,15 +1,27 @@
 # Spam Detection System on Shopee Review
-I hate current Shopee reviews. So I decide to make a detection spam system for it
+I hate current Shopee reviews. So I decide to make a detection spam system for it.
 
 # What is this monstrosity!
-It's a machine learning driven towards detecting spam reviews on any Shopee product
+It's a machine learning driven towards detecting spam reviews on any Shopee product.
 
 # What is/are machine learning used?
-Random Forest 
+Random Forest.
 
 # Can I train them?
-Yes, but only on CUDA supported devices 
+Yes, but only on CUDA supported devices. 
+Python 3.9. Any thing above will get messy.
+In terms of dependencies I really forgot to update them. But just install the packages in the notebook.
 
 # To run the system?
-If you can launch a browser hence you can run it
+You need to config a db on phpMyAdmin (I used) with all the stored proc I built.
+*Not sure if I include them or not
+
+# What's your machine specs?
+Ryzen 5600X @ 4.4GHZ all core
+ASUS TUF RTX3080
+16GB 3600mhz
+2 SSD and 3 HDDs (Project on SSD)
+
+*Pssspssss
+*I love playing Horizon Zero Dawn, Ori and Metal HellSinger download them and enjoy them ;)
 
