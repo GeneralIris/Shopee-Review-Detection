@@ -22,6 +22,6 @@ ASUS TUF RTX3080
 16GB 3600mhz
 2 SSD and 3 HDDs (Project on SSD)
 
-*Pssspssss
-*I love playing Horizon Zero Dawn, Ori and Metal HellSinger download them and enjoy them ;)
+# Games I like ;0
+Horizon Zero Dawn, Ori and Metal HellSinger
 
