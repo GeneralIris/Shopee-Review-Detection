@@ -19,7 +19,7 @@ A system integrated using flask with mysql as the database used to simulate the 
 ## Total dataset used?
 - 500+ Ham
 - 600+ Spam
-*Original Spam Count Not Included= 7k+*
+- *Original Spam Count Not Included= 7k+*
 
 ## What is/are machine learning used?
 - Random Forest
@@ -34,7 +34,7 @@ A system integrated using flask with mysql as the database used to simulate the 
 
 ## To run the system?
 - You need to config a db on phpMyAdmin (I used) with all the stored proc I built.
-*Not sure if I include them or not
+*Not sure if I include them or not*
 
 ## What's your machine specs during the development?
 - Ryzen 5600X @ 4.4GHZ all core
