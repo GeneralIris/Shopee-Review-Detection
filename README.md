@@ -9,8 +9,13 @@ For now, I share my model train and testing + the jupyter notebook as the prove 
 
 
 ## What is this monstrosity!
-It's a machine learning driven towards detecting spam reviews on any Shopee product for my FYP it focuses on Storage Devices.
-A system integrated using flask with mysql as the database used to simulate the user access to the model.
+It's a machine learning driven towards detecting spam reviews on any Shopee product for my FYP it focuses on Storage Devices. <br>
+A system integrated using flask with mysql as the database used to simulate the user access to the model. <br>
+
+## This is da police! Where you get the data?
+
+- Obviously from Shopee itself using their API
+- Labels? I did it myself with my own set of rules to be considered as Spam / Ham
 
 ## How to use the system?
 - A user may input the URL into the system, using Shopee API in return, it spits out all the 'ham' reviews with a cooldown. As each 3 days, if not a single user made the search on the system, it will perform the detection otherwise less than 3 days, it will instead grab the data from the database.
