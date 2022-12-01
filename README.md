@@ -1,13 +1,13 @@
 # Why no repo?
-Well this is my final year project, currently just finished the machine learning + 3 models (RF,SVM,NB) used for evaluating the best among them
+Well this is my final year project, currently just finished preparing the machine learning + 3 models (RF,SVM,NB) used for evaluating the best among them
 ## Ps~ Its SVM ;)
 
 
-## Spam Detection System on Shopee Review
+# Spam Detection System on Shopee Review
 I hate current Shopee reviews. So I decide to make a detection spam system for it.
 
 
-## What is this monstrosity!
+- What is this monstrosity!
 It's a machine learning driven towards detecting spam reviews on any Shopee product.
 
 
