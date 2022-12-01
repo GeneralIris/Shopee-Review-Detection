@@ -19,7 +19,7 @@ A system integrated using flask with mysql as the database used to simulate the 
 ## Total dataset used?
 - 500+ Ham
 - 600+ Spam
-*Original Spam Count Not Included= 7k+
+*Original Spam Count Not Included= 7k+*
 
 ## What is/are machine learning used?
 - Random Forest
