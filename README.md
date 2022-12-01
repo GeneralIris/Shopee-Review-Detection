@@ -5,11 +5,12 @@ For now, I share my model train and testing + the jupyter notebook as the prove 
 
 
 # Spam Detection System on Shopee Review
-- I hate current Shopee reviews. So I decide to make a detection spam system for it.
+- I hate current Shopee reviews. So I decide to make a spam detection system for it.
 
 
 ## What is this monstrosity!
-It's a machine learning driven towards detecting spam reviews on any Shopee product for my FYP it focuses on Storage Devices. <br>
+It's a machine learning driven towards detecting spam reviews on any Shopee product for my FYP that focuses on Storage Devices product. <br>
+*It works for non-storage devices, huh I wonder ;)* <br>
 A system integrated using flask with mysql as the database used to simulate the user access to the model. <br>
 
 ## This is da police! Where you get the data?
@@ -28,7 +29,7 @@ A system integrated using flask with mysql as the database used to simulate the 
 
 *Original Spam Count Not Included= 7k+ Kill me already*
 
-## What is/are machine learning used?
+## What is/are the machine learning used?
 - Random Forest
 - Support Vector Machine
 - Naive Bayes
