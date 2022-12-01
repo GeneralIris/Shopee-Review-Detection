@@ -26,7 +26,7 @@ A system integrated using flask with mysql as the database used to simulate the 
 - 500+ Ham
 - 600+ Spam <br>
 
-*Original Spam Count Not Included= 7k+*
+*Original Spam Count Not Included= 7k+ Kill me already*
 
 ## What is/are machine learning used?
 - Random Forest
