@@ -44,6 +44,12 @@ A system integrated using flask with mysql as the database used to simulate the 
 - 16GB 3600mhz
 - 2 SSDs and 3 HDDs (Project on SSD)
 
+## Credits
+Thanks to :
+- MalayNLP for allowing such an awesome tool to manage Malay/Manglish text
+- Other researchers + & lecturers that guide me on NLP and loading models
+
+
 # Games I like ;0
 Horizon Zero Dawn, Ori and Metal HellSinger
 
