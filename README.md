@@ -16,7 +16,7 @@ A system integrated using flask with mysql as the database used to simulate the 
 - Well, this to avoid high traffic grabbing data from the store and time to process duplicates review. <br>
 *Might try improve this*
 
-## Total dataset used?
+## Total dataset used?  CurrentData.csv
 - 500+ Ham
 - 600+ Spam <br>
 
