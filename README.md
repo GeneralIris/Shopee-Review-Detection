@@ -53,7 +53,7 @@
 ## Credits
 Thanks to :
 - MalayNLP for allowing such an awesome tool to manage Malay/Manglish text
-- Other researchers + & lecturers that guide me on NLP and loading models
+- Other researchers & lecturers that guide me on NLP and loading models
 
 
 # Games I like ;0
