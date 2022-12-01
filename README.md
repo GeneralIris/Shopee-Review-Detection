@@ -1,6 +1,6 @@
 # Why no repo?
-Well this is my final year project, currently just finished preparing the machine learning + 3 models (RF,SVM,NB) used for evaluating the best among them. <br>
-For now, I share my model train and testing + the jupyter notebook as the prove of my work, 'Working on finalizing my research paper ;)'
+- Well this is my final year project, currently just finished preparing the machine learning + 3 models (RF,SVM,NB) used for evaluating the best among them. <br>
+- For now, I share my model train and testing + the jupyter notebook as the prove of my work, 'Working on finalizing my research paper ;)'
 ## Ps~ Its SVM ;)
 
 
@@ -9,9 +9,9 @@ For now, I share my model train and testing + the jupyter notebook as the prove 
 
 
 ## What is this monstrosity!
-It's a machine learning driven towards detecting spam reviews on any Shopee product for my FYP that focuses on Storage Devices product. <br>
+- It's a machine learning driven towards detecting spam reviews on any Shopee product for my FYP that focuses on Storage Devices product. <br>
 *It works for non-storage devices, huh I wonder ;)* <br>
-A system integrated using flask with mysql as the database used to simulate the user access to the model. <br>
+- A system integrated using flask with mysql as the database used to simulate the user access to the model. <br>
 
 ## This is da police! Where you get the data?
 
@@ -41,7 +41,7 @@ A system integrated using flask with mysql as the database used to simulate the 
 - In terms of dependencies I really forgot to update them. But just install the packages in the notebook.
 
 ## To run the system?
-- You need to config a db on phpMyAdmin (I used) with all the stored proc I built. <br>
+- You need to config a db on phpMyAdmin (I used) with all the stored proc I built. <br><br>
 *Not sure if I include them or not*
 
 ## What's your machine specs during the development?
