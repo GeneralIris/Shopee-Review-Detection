@@ -11,11 +11,9 @@
 
 # Spam Detection System on Shopee Review
 - I hate current Shopee reviews. So I decide to make a spam detection system for it.
-It's a machine learning driven towards detecting spam reviews on any Shopee product for my FYP that focuses on Storage Devices product. 
-<br>
+* It's a machine learning driven towards detecting spam reviews on any Shopee product for my FYP that focuses on Storage Devices product. 
 **It works for non-storage devices, huh I wonder ;)** 
-<br>
-A system integrated using flask with mysql as the database used to simulate the user access to the model.
+* A system integrated using flask with mysql as the database used to simulate the user access to the model.
 <br>
 
 
