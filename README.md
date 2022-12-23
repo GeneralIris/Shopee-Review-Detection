@@ -2,9 +2,9 @@
 # Table Content
 - [Shopee Review Detection](#spam-detection-system-on-shopee-review)
   - [Where's your repo?](#why-no-repo)
-  - [What is this?](#What-is-this-monstrosity!)
-  - [Obtaining Dataset](#This-is-da-police!-Where-you-get-the-data?)
-  - [Total Dataset](#Total-dataset-used?--CurrentData.csv)
+  - [What is this?](#what-is-this-monstrosity)
+  - [Obtaining Dataset](#this-is-da-police-where-you-get-the-data)
+  - [Total Dataset](#total-dataset-used--currentdata.csv)
   - [How to use?](#How-to-use-the-system?)
 
 <!-- /TOC -->
