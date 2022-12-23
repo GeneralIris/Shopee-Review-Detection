@@ -11,17 +11,23 @@
 
 # Spam Detection System on Shopee Review
 - I hate current Shopee reviews. So I decide to make a spam detection system for it.
+It's a machine learning driven towards detecting spam reviews on any Shopee product for my FYP that focuses on Storage Devices product. 
+<br>
+**It works for non-storage devices, huh I wonder ;)** 
+<br>
+A system integrated using flask with mysql as the database used to simulate the user access to the model.
+<br>
+## Repo Details
 
-# Why no repo?
+### Why is it too simple?
 - Well this is my final year project, currently just finished preparing the machine learning + 3 models (RF,SVM,NB) used for evaluating the best among them. <br>
 - For now, I share my model train and testing + the jupyter notebook as the prove of my work, 'Working on finalizing my research paper ;)'
-## Ps~ Its SVM ;)
+
+**Ps~ Its SVM ;)**
 
 
 ## What is this monstrosity!
-- It's a machine learning driven towards detecting spam reviews on any Shopee product for my FYP that focuses on Storage Devices product. <br>
-*It works for non-storage devices, huh I wonder ;)* <br>
-- A system integrated using flask with mysql as the database used to simulate the user access to the model. <br>
+
 
 ## This is da police! Where you get the data?
 
