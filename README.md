@@ -17,16 +17,8 @@ It's a machine learning driven towards detecting spam reviews on any Shopee prod
 <br>
 A system integrated using flask with mysql as the database used to simulate the user access to the model.
 <br>
-## Repo Details
-
-### Why is it too simple?
-- Well this is my final year project, currently just finished preparing the machine learning + 3 models (RF,SVM,NB) used for evaluating the best among them. <br>
-- For now, I share my model train and testing + the jupyter notebook as the prove of my work, 'Working on finalizing my research paper ;)'
-
-**Ps~ Its SVM ;)**
 
 
-## What is this monstrosity!
 
 
 ## This is da police! Where you get the data?
@@ -40,9 +32,9 @@ A system integrated using flask with mysql as the database used to simulate the 
 - *Original Spam Count Not Included= 7k+ Kill me already*
 
 ## How to use the system?
-- A user may input the URL into the system, using Shopee API in return, it spits out all the 'ham' reviews with a cooldown. As each 3 days, if not a single user made the search on the system, it will perform the detection otherwise less than 3 days, it will instead grab the data from the database.
-- Well, this to avoid high traffic grabbing data from the store and time to process duplicates review. <br>
-*Might try improve this*
+* A user may input the URL into the system, using Shopee API in return, it spits out all the 'ham' reviews with a cooldown. As each 3 days, if not a single user made the search on the system, it will perform the detection otherwise less than 3 days, it will instead grab the data from the database.
+* Well, this to avoid high traffic grabbing data from the store and time to process duplicates review.
+**Might try improve this**
 
 
 
@@ -67,6 +59,13 @@ A system integrated using flask with mysql as the database used to simulate the 
 - ASUS TUF RTX3080
 - 16GB 3600mhz
 - 2 SSDs and 3 HDDs (Project on SSD)
+- 
+## Repo Note
+
+### Why is it too simple?
+- Well this is my final year project, currently just finished preparing the machine learning + 3 models (RF,SVM,NB) used for evaluating the best among them. <br>
+- For now, I share my model train and testing + the jupyter notebook as the prove of my work, 'Working on finalizing my research paper ;)'
+**Ps~ Its SVM ;)**
 
 ## Credits
 Thanks to :
