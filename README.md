@@ -1,7 +1,7 @@
 <!-- TOC -->
 
 - [Shopee Review Detection](#Why-no-repo?)
-  - [Where's your repo?](#Why-no-repo?)
+  - [Where's your repo?](#Spam-Detection-System-on-Shopee-Review)
 
 
 <!-- /TOC -->
