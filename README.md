@@ -10,16 +10,19 @@
 <!-- /TOC -->
 
 # Spam Detection System on Shopee Review
-- I hate current Shopee reviews. So I decide to make a spam detection system for it.
+
+## Why?
+I hate current Shopee reviews. So I decide to make a spam detection system for it.
+
 * It's a machine learning driven towards detecting spam reviews on any Shopee product for my FYP that focuses on Storage Devices product. 
 * A system integrated using flask with mysql as the database used to simulate the user access to the model.
 
 **It works for non-storage devices, huh I wonder ;)** 
 
 
+### Dataset
 ## This is da police! Where you get the data?
-
-- Obviously from Shopee itself using their API
+- Obviously from Shopee itself using their API 
 - Labels? I did it myself with my own set of rules to be considered as Spam / Ham
 
 ## Total dataset used?
