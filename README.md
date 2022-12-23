@@ -4,7 +4,7 @@
   - [Where's your repo?](#why-no-repo)
   - [What is this?](#what-is-this-monstrosity)
   - [Obtaining Dataset](#this-is-da-police-where-you-get-the-data)
-  - [Total Dataset](#total-dataset-used-currentdata.csv)
+  - [Total Dataset](#total-dataset-used)
   - [How to use?](#How-to-use-the-system?)
 
 <!-- /TOC -->
@@ -28,7 +28,7 @@
 - Obviously from Shopee itself using their API
 - Labels? I did it myself with my own set of rules to be considered as Spam / Ham
 
-## Total dataset used?  CurrentData.csv
+## Total dataset used?
 - 500+ Ham
 - 600+ Spam <br>
 - *Original Spam Count Not Included= 7k+ Kill me already*
