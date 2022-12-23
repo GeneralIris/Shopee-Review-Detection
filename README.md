@@ -2,10 +2,10 @@
 # Table Content
 - [Shopee Review Detection](#Spam-Detection-System-on-Shopee-Review)
   - [Where's your repo?](#Why-no-repo?)
-  - [What is this?](##What-is-this-monstrosity!)
-  - [Obtaining Dataset](##This-is-da-police!-Where-you-get-the-data?)
-    - [Total Dataset](##Total-dataset-used?--CurrentData.csv)
-  - [How to use?](##How-to-use-the-system?)
+  - [What is this?](#What-is-this-monstrosity!)
+  - [Obtaining Dataset](#This-is-da-police!-Where-you-get-the-data?)
+  - [Total Dataset](#Total-dataset-used?--CurrentData.csv)
+  - [How to use?](#How-to-use-the-system?)
 
 <!-- /TOC -->
 
