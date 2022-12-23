@@ -4,7 +4,7 @@
   - [Where's your repo?](#why-no-repo)
   - [What is this?](#what-is-this-monstrosity)
   - [Obtaining Dataset](#this-is-da-police-where-you-get-the-data)
-  - [Total Dataset](#total-dataset-used--currentdata.csv)
+  - [Total Dataset](#total-dataset-used-currentdata.csv)
   - [How to use?](#How-to-use-the-system?)
 
 <!-- /TOC -->
