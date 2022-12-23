@@ -1,19 +1,21 @@
 <!-- TOC -->
-
-- [Shopee Review Detection](#Why-no-repo?)
-  - [Where's your repo?](#Spam-Detection-System-on-Shopee-Review)
-
+# Table Content
+- [Shopee Review Detection](#Spam-Detection-System-on-Shopee-Review)
+  - [Where's your repo?](#Why-no-repo?)
+  - [What is this?](#What-is-this-monstrosity!)
+  - [Obtaining Dataset](#This-is-da-police!-Where-you-get-the-data?)
+  - [Total Dataset](#Total-dataset-used?--CurrentData.csv)
+  - [How to use?](#How-to-use-the-system?)
 
 <!-- /TOC -->
+
+# Spam Detection System on Shopee Review
+- I hate current Shopee reviews. So I decide to make a spam detection system for it.
 
 # Why no repo?
 - Well this is my final year project, currently just finished preparing the machine learning + 3 models (RF,SVM,NB) used for evaluating the best among them. <br>
 - For now, I share my model train and testing + the jupyter notebook as the prove of my work, 'Working on finalizing my research paper ;)'
 ## Ps~ Its SVM ;)
-
-
-# Spam Detection System on Shopee Review
-- I hate current Shopee reviews. So I decide to make a spam detection system for it.
 
 
 ## What is this monstrosity!
@@ -26,16 +28,18 @@
 - Obviously from Shopee itself using their API
 - Labels? I did it myself with my own set of rules to be considered as Spam / Ham
 
+## Total dataset used?  CurrentData.csv
+- 500+ Ham
+- 600+ Spam <br>
+- *Original Spam Count Not Included= 7k+ Kill me already*
+
 ## How to use the system?
 - A user may input the URL into the system, using Shopee API in return, it spits out all the 'ham' reviews with a cooldown. As each 3 days, if not a single user made the search on the system, it will perform the detection otherwise less than 3 days, it will instead grab the data from the database.
 - Well, this to avoid high traffic grabbing data from the store and time to process duplicates review. <br>
 *Might try improve this*
 
-## Total dataset used?  CurrentData.csv
-- 500+ Ham
-- 600+ Spam <br>
 
-*Original Spam Count Not Included= 7k+ Kill me already*
+
 
 ## What is/are the machine learning used?
 - Random Forest
