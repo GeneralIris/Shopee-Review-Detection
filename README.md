@@ -44,7 +44,7 @@ I hate current Shopee reviews. So I decide to make a spam detection system for i
 
 ## Usage
 ### Architecture
-![plot](./docs/System%Architecture.jpeg)
+![plot](./docs/System%20Architecture.jpeg)
 
 ### How to use the system?
 * A user may input the URL into the system, using Shopee API in return, it spits out all the 'ham' reviews with a cooldown. As each 3 days, if not a single user made the search on the system, it will perform the detection otherwise less than 3 days, it will instead grab the data from the database.
