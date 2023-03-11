@@ -44,6 +44,7 @@ I hate current Shopee reviews. So I decide to make a spam detection system for i
 
 ## Usage
 ### Architecture
+![plot](./docs/System-Architecture.jpeg)
 
 
 ### How to use the system?
